@@ -1,0 +1,12 @@
+{
+  "name": "passport-status",
+  "version": "1.0.0",
+  "description": "Query the passport status from the Brazilian federal police web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Vitor Veras",
+  "license": "ISC"
+}
